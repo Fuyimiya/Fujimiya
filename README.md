@@ -1,36 +1,20 @@
-# 👋 Olá, eu sou Fujimiya
+# Olá, eu sou Josué 👋
 
-🎌 Criador de conteúdo do canal Tomoshi Animes76  
-💻 Estudante e desenvolvedor Android  
-📱 Criando projetos em Java e SQLite  
-🎥 Apaixonado por animes, tecnologia e design  
-🚀 Sempre aprendendo novas tecnologias
+🎓 Estudante da Fatec Jaú  
+💻 Desenvolvedor em formação  
+📚 Java • Android • SQLite  
+🎌 Gosto de animes e mangás
 
----
+## 📺 Animes favoritos
+- Rakudai Kishi no Canvanela 
+- Kanojo mo Kanojo 
+- Death Note
 
-## 🌟 Sobre mim
+## 📖 Mangás favoritos
+- Kaoru Hana wa Rin to Saku
+- Fūfu Ijō, Koibito Miman
 
-Sou estudante e desenvolvedor focado em aplicações mobile e projetos criativos.
-Também produzo conteúdo sobre animes e entretenimento no canal **Tomoshi Animes76**.
-
-Atualmente estou estudando:
-
-- Java
-- Android Studio
-- SQLite
-- Git e GitHub
-- Desenvolvimento Mobile
-
----
-
-## 📂 Projetos
-
-📌 App de Compras com SQLite  
-📌 Projetos Android em Java  
-📌 Sistemas acadêmicos  
-📌 Interfaces mobile modernas
-
-
-## 🌐 Redes
-
-🎥 YouTube: Tomoshi Animes76
+## 🚀 Projetos
+- Dashboard ApexCharts
+- Aplicativos Android
+- Projetos acadêmicos
