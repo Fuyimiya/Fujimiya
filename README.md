@@ -1,42 +1,23 @@
 
 
-🎓 Estudante da Fatec Jaú  
-💻 Desenvolvedor em formação  
-📚 Java • Android • Banco de Dados  
+<img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%">
+
+# ✨ Fujimiya ✨
+
 🎌 Apaixonado por animes e mangás  
+🌙 Estudante da Fatec Jaú  
+🎧 Música, tecnologia e cultura japonesa  
+📖 Colecionador de histórias e universos fictícios  
+💻 Desenvolvedor em formação  
 
 ---
 
-# 🚀 Tecnologias
+# 🌌 Sobre mim
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-# 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight)
-
----
-
-# 📂 Projetos em destaque
-
-## 🎌 Site_MangaLicious
-Site sobre animes e mangás
-
-## 🎟 Ticket-Trade
-Sistema de compra e venda
-
-## 🏢 site_empresa
-Site institucional
+🖤 Gosto de estética dark/anime  
+🌸 Curto personagens com desenvolvimento profundo  
+⚡ Fã de ficção científica, mistério e fantasia  
+🎴 Sempre assistindo algum anime novo  
 
 ---
 
@@ -45,7 +26,13 @@ Site institucional
 - Steins;Gate
 - Attack on Titan
 - Death Note
+- Tokyo Ghoul
+- Fullmetal Alchemist
 - One Piece
+- Demon Slayer
+- Re:Zero
+- Your Name
+- Violet Evergarden
 
 ---
 
@@ -54,10 +41,68 @@ Site institucional
 - Berserk
 - Vagabond
 - Tokyo Ghoul
+- Oyasumi Punpun
+- Chainsaw Man
+- Jujutsu Kaisen
 
 ---
 
-# 📫 Contato
+# 🎵 O que gosto
+
+🎧 Lo-fi  
+🌃 Noites chuvosas  
+☕ Café  
+🎮 Jogos  
+🌸 Japão  
+🎴 Cultura oriental  
+
+---
+
+# 🖤 Personagens favoritos
+
+⚔️ Levi Ackerman  
+🧠 L Lawliet  
+🕰️ Okabe Rintarou  
+🌑 Kaneki Ken  
+🔥 Itachi Uchiha  
+
+---
+
+# 🎮 Jogos favoritos
+
+- Persona 5
+- Danganronpa
+- Minecraft
+- Valorant
+- Hollow Knight
+
+---
+
+# 🌙 Frase favorita
+
+> “Discipline today, freedom tomorrow.”
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight)
+
+---
+
+# 🎴 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+# 🌌 Contato
 
 📍 Jaú - SP  
 🎓 Fatec Jaú
