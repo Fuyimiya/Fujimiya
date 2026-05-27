@@ -48,9 +48,16 @@
 ---
 
 # 🎵 O que gosto
+sair a passeio 
 
-🎧 Lo-fi  
-🌃 Noites chuvosas  
+
+
+
+
+
+
+
+  
 ☕ Café  
 🎮 Jogos  
 🌸 Japão  
