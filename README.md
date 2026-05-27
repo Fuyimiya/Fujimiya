@@ -38,11 +38,10 @@
 
 # 🌌 Personagens favoritos
 
-⚔️ Levi Ackerman  
-🧠 L Lawliet  
+⚔️ Asuna Yuki  
+🧠 Shina Mahiru 
 🔥 Itachi Uchiha  
-🌑 Kaneki Ken  
-
+🌑 Ikki Kurogane
 ---
 
 # 🎮 Jogos favoritos
