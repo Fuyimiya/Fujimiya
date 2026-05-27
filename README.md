@@ -1,5 +1,4 @@
-<a href="https://ibb.co/Rxdxdq8"><img src="https://i.ibb.co/Rxdxdq8/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="0"></a> align="center">
-🎌 Estudante da Fatec Jaú • Anime Lover • Mangás • Japão 🎌
+<a href="https://ibb.co/Rxdxdq8"><img src="https://i.ibb.co/Rxdxdq8/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="0"></a> Estudante da Fatec Jaú • Anime Lover • Mangás • Japão 🎌
 </p>
 
 ---
