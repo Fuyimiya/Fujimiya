@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%">
-</p>
-
+  <https://ibb.co/Rxdxdq8
 <h1 align="center">✨ Fujimiya ✨</h1>
 
 <p align="center">
