@@ -1,4 +1,4 @@
-# Olá, eu sou Josué 👋
+# Olá, eu Fujimiya 👋
 
 🎓 Estudante da Fatec Jaú  
 💻 Desenvolvedor em formação  
