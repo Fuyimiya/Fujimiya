@@ -1,6 +1,4 @@
-<p align="center">
-  <https://ibb.co/Rxdxdq8
-<h1 align="center">✨ Fujimiya ✨</h1>
+https://ibb.co/hR3WPHb1enter">✨ Fujimiya ✨</h1>
 
 <p align="center">
 🎌 Estudante da Fatec Jaú • Anime Lover • Mangás • Japão 🎌
