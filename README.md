@@ -1,4 +1,6 @@
-# Olá, eu sou Fujimiya 👋
+<img src="LINK_DA_IMAGEM" width="100%">
+
+O#Ola sou Fujimiya 😃
 
 🎓 Estudante da Fatec Jaú  
 💻 Desenvolvedor em formação  
