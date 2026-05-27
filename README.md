@@ -1,7 +1,4 @@
 
-
-<img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%">
-
 # ✨ Fujimiya ✨
 
 🎌 Apaixonado por animes e mangás  
