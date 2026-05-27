@@ -1,20 +1,21 @@
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%">
+</p>
 
-# ✨ Fujimiya ✨
+<h1 align="center">✨ Fujimiya ✨</h1>
 
-🎌 Apaixonado por animes e mangás  
-🌙 Estudante da Fatec Jaú  
-🎧 Música, tecnologia e cultura japonesa  
-📖 Colecionador de histórias e universos fictícios  
-💻 Desenvolvedor em formação  
+<p align="center">
+🎌 Estudante da Fatec Jaú • Anime Lover • Mangás • Japão 🎌
+</p>
 
 ---
 
-# 🌌 Sobre mim
+# 🌸 Sobre mim
 
-🖤 Gosto de estética dark/anime  
-🌸 Curto personagens com desenvolvimento profundo  
-⚡ Fã de ficção científica, mistério e fantasia  
-🎴 Sempre assistindo algum anime novo  
+🖤 Apaixonado por animes e mangás  
+🌙 Perfil aesthetic dark  
+🎧 Gosto de lo-fi e cultura japonesa  
+💻 Desenvolvedor em formação  
 
 ---
 
@@ -24,12 +25,9 @@
 - Attack on Titan
 - Death Note
 - Tokyo Ghoul
-- Fullmetal Alchemist
-- One Piece
-- Demon Slayer
 - Re:Zero
-- Your Name
 - Violet Evergarden
+- Your Name
 
 ---
 
@@ -38,53 +36,25 @@
 - Berserk
 - Vagabond
 - Tokyo Ghoul
-- Oyasumi Punpun
 - Chainsaw Man
-- Jujutsu Kaisen
 
 ---
 
-# 🎵 O que gosto
-sair a passeio 
-
-
-
-
-
-
-
-
-  
-☕ Café  
-🎮 Jogos  
-🌸 Japão  
-🎴 Cultura oriental  
-
----
-
-# 🖤 Personagens favoritos
+# 🌌 Personagens favoritos
 
 ⚔️ Levi Ackerman  
 🧠 L Lawliet  
-🕰️ Okabe Rintarou  
-🌑 Kaneki Ken  
 🔥 Itachi Uchiha  
+🌑 Kaneki Ken  
 
 ---
 
 # 🎮 Jogos favoritos
 
 - Persona 5
-- Danganronpa
 - Minecraft
-- Valorant
 - Hollow Knight
-
----
-
-# 🌙 Frase favorita
-
-> “Discipline today, freedom tomorrow.”
+- Valorant
 
 ---
 
@@ -102,11 +72,17 @@ sair a passeio
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
-# 🌌 Contato
+# 🌙 Frase favorita
+
+> “Discipline today, freedom tomorrow.”
+
+---
+
+# 📫 Contato
 
 📍 Jaú - SP  
 🎓 Fatec Jaú
