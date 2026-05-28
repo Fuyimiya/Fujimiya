@@ -109,7 +109,19 @@ div align="center">
 
 #  📬 Contato
 
-* ✉️ **Email:** [josue.paschoalino@fatec.sp.gov.br](mailto:josue.paschoalino@fatec.sp.gov.br)
+* ✉️ **Email:** [josue.paschoaliv.br](m
+
+div align="center">
+  <table>
+    <tr>
+      <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7;">
+        "Disciplina hoje, liberdade amanhã." <br>
+        <strong>— Fujimiya</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
 * 💼 **LinkedIn:** [linkedin.com/in/josue-paschoalino](https://linkedin.com/in/josue-paschoalino)
 * 📍 **Localização:** Jaú
 
