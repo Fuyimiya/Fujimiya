@@ -83,8 +83,7 @@ div align="center">
 - Vagabond
 - Tokyo Ghoul
 - Chainsaw Man
-- Oyasumi Punpun
-
+- Solo Leveling
 ---
 
 # 🌌 Personagens favoritos
