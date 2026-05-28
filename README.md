@@ -76,9 +76,9 @@ div align="center">
 
 # 🎵 O que gosto
 
-🎧 R K-pop
+🎧  K-pop
 ☕ Café  
-🌧️ mangá  
+ 📖mangá  
 🌙 Noite  
 🎴 Japão  
 🎮 Jogos  
