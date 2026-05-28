@@ -107,9 +107,10 @@ div align="center">
 
 ---
 
-# 📫 Contato
+#  📬 Contato
 
-📍 Jaú - SP  
-🎓 Fatec Jaú  
+* ✉️ **Email:** [josue.paschoalino@fatec.sp.gov.br](mailto:josue.paschoalino@fatec.sp.gov.br)
+* 💼 **LinkedIn:** [linkedin.com/in/josue-paschoalino](https://linkedin.com/in/josue-paschoalino)
+* 📍 **Localização:** Jaú
 
 
