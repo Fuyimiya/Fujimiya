@@ -40,10 +40,9 @@ div align="center">
 # 📊 Estatísticas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fuyimiya&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuyimiya&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=dark" alt="Top Langs" height="180">
+</div>
 
 </div>
 
