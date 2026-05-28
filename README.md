@@ -18,7 +18,7 @@ div align="center">
 💻 Desenvolvedor em formação  
 🖤 Apaixonado por animes e mangás  
 🌙 Perfil aesthetic dark  
-🎧 Lo-fi • Japão • Cultura oriental  
+🎧 K-pop • Japão • Cultura oriental  
 
 ---
 
@@ -98,7 +98,7 @@ div align="center">
 
 # 🎵 O que gosto
 
-🎧 Rook
+🎧 R K-pop
 ☕ Café  
 🌧️ mangá  
 🌙 Noite  
