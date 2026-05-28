@@ -1,4 +1,4 @@
-div align="center">
+
 
 <a href="https://ibb.co/hR3WPHb1">
 <img src="https://i.ibb.co/tMVs7cgP/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="0" width="100%">
