@@ -28,8 +28,7 @@ div align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-
+<![Criador de Conteúdo Anime](https://img.shields.io/badge/Criador%20de%20Conteúdo%20Anime-9146FF?style=for-the-badge&logo=youtube&logoColor=white)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
