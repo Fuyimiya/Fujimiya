@@ -110,7 +110,7 @@ div align="center">
  📬 Contato
 
 * ✉️ **Email:** [josuerodrigues238239@gmail.com](mailto:josuerodrigues238239@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/josue-paschoalino](https://linkedin.com/in/Fujimiya)
+* 💼 **LinkedIn:** [linkedin.com/Fujimiya](https://linkedin.com/in/Fujimiya)
 * 📍 **Localização:** Jaú - SP
 
 ---
