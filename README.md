@@ -22,9 +22,7 @@ div align="center">
 
 ---
 
- ## 🛠️ Tecnologias
-
-<## 🛠️ Tecnologias & Ferramentas de Criação
+ ## 🛠️ Tecnologias & Ferramentas de Criação
 
 ### 💻 Desenvolvimento
 <div align="left">
@@ -39,13 +37,9 @@ div align="center">
 <div align="left">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
+  <img src="https://img.shields.io/badge/Kwai-%23FF5E00.svg?style=for-the-badge&logo=kwai&logoColor=white" alt="Kwai">
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop">
 </div>
-
----
-
----
 
 # 📺 Animes favoritos
 
