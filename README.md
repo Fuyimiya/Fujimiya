@@ -109,7 +109,7 @@ div align="center">
 
 📬 Contato
 
-* josuerodrigues238239@gmail.comgov.br](mailto:josue.paschoalino@fatec.sp.gov.br)
+* josuerodrigues238239@gmailcom](mailto:josue.paschoalino@fatec.sp.gov.br)
 * 💼 **LinkedIn:** [linkedin.com/in/josue-paschoalino](https://linkedin.com/in/josue-paschoalino)
 * 📍 **Localização:** Jaú - SP
 
