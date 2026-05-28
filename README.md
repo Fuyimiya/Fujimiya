@@ -37,24 +37,6 @@ div align="center">
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=dark" alt="Top Langs" height="180">
-</div>
-
-</div>
-
----
-
-# 🎮 Projetos em destaque
-
-🖥️ Site_MangaLicious  
-🎫 Ticket-Trade  
-🏢 site_empresa  
-📚 Dupla-dinamica  
-
 ---
 
 # 📺 Animes favoritos
