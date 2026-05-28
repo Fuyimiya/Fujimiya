@@ -63,20 +63,24 @@ div align="center">
 
 # 📺 Animes favoritos
 
-- Naruto
-- Attack on Titan
-- Death Note
 - Steins;Gate
+- Kanojo mo Kanojo 
+- Death Note
 - Tokyo Ghoul
 - Re:Zero
-- Demon Slayer
 - Violet Evergarden
+- Your Name
+- Otonari no Tenshi-sama
+- Sword Art Online
+- Classroom of the Elite
+
+
 
 ---
 
 # 📖 Mangás favoritos
 
-- Berserk
+- Oshi no Ko 
 - Vagabond
 - Tokyo Ghoul
 - Chainsaw Man
@@ -86,12 +90,11 @@ div align="center">
 
 # 🌌 Personagens favoritos
 
-⚔️ Levi Ackerman  
+⚔️ Asuna Yuuki  
 🧠 L Lawliet  
 🔥 Itachi Uchiha  
 🌑 Kaneki Ken  
-⏳ Okabe Rintarou  
-
+⏳ Ikki Kurogane
 ---
 
 # 🎵 O que gosto
