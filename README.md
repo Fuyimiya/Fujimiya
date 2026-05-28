@@ -107,10 +107,10 @@ div align="center">
 
 ---
 
- 📬 Contato
+ ## 📬 Contato
 
 * ✉️ **Email:** [josuerodrigues238239@gmail.com](mailto:josuerodrigues238239@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/Fujimiya](https://linkedin.com/in Josué Rodrigues)
+* 💬 **WhatsApp:** [14 98172-3355](https://wa.me/55149817255)
 * 📍 **Localização:** Jaú - SP
 
 ---
@@ -118,6 +118,14 @@ div align="center">
 <div align="center">
   <table>
     <tr>
+      <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7;">
+        "Os limites só existem se você deixar que eles existam." <br>
+        <strong>— Son Goku</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
       <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7;">
         "Disciplina hoje, liberdade amanhã." <br>
         <strong>— Fujimiya</strong>
