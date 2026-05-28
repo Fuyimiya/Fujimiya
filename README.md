@@ -91,17 +91,17 @@ div align="center">
 # 🌌 Personagens favoritos
 
 ⚔️ Asuna Yuuki  
-🧠 L Lawliet  
+🧠 Shiina Mahiru  
 🔥 Itachi Uchiha  
-🌑 Kaneki Ken  
+🌑 Fujimiya  Amane 
 ⏳ Ikki Kurogane
 ---
 
 # 🎵 O que gosto
 
-🎧 Lo-fi  
+🎧 Rook
 ☕ Café  
-🌧️ Chuva  
+🌧️ mangá  
 🌙 Noite  
 🎴 Japão  
 🎮 Jogos  
