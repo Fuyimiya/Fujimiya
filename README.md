@@ -107,17 +107,24 @@ div align="center">
 
 ---
 
-📬 Contato
+ 📬 Contato
 
-* josuerodrigues238239@gmailcom](mailto:josue.paschoalino@fatec.sp.gov.br)
+* ✉️ **Email:** [josuerodrigues238239@gmail.com](mailto:josuerodrigues238239@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/josue-paschoalino](https://linkedin.com/in/josue-paschoalino)
 * 📍 **Localização:** Jaú - SP
 
+---
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7;">
+        "Disciplina hoje, liberdade amanhã." <br>
+        <strong>— Fujimiya</strong>
+      </td>
+    </tr>
   </table>
 </div>
 
-* 💼 **LinkedIn:** [linkedin.com/in/josue-paschoalino](https://linkedin.com/in/josue-paschoalino)
-* 📍 **Localização:** Jaú
 
 
