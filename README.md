@@ -1,4 +1,4 @@
-<div align="center">
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white<div align="center">
 
 <img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%">
 
