@@ -79,7 +79,7 @@
 
 🎧  K-pop
 ☕ Café  
- 📖mangá  
+ 📖 Mangá 
 🌙 Noite  
 🎴 Japão  
 🎮 Jogos  
