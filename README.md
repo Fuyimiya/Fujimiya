@@ -112,12 +112,4 @@ div align="center">
 📍 Jaú - SP  
 🎓 Fatec Jaú  
 
----
 
-<div align="center">
-
-## 🌙 Frase favorita
-
-> “Discipline today, freedom tomorrow.”
-
-</div>
