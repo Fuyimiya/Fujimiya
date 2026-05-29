@@ -88,11 +88,7 @@
 
 <!-- SEÇÃO DE ESTATÍSTICAS COM AS CORES DA IMAGEM -->
 ## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight" alt="Top Langs" height="180">
-</div>
+>
 
 ---
 
