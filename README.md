@@ -91,39 +91,19 @@
 * 💬 **WhatsApp:** [14 98172-3355](https://wa.me/5514981723355)
 * 📍 **Localização:** Jaú - SP
 
-<!-- SEÇÃO DE ESTATÍSTICAS COM AS CORES DA IMAGEM -->
+<-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight" alt="Top Langs" height="180">
+</div>
+
+
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight" alt="Top Langs" height="180">
-</div>
-
----
-
-<!-- FRASE FINAL COM CAIXA ROXA E BORDA AZUL NEON -->
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7; background-color: #1a1b26; border: 2px solid #7aa2f7; padding: 15px; border-radius: 8px;">
-        "Os limites só existem se você deixar que eles existam." <br>
-        <strong>— Son Goku</strong>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_bust=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight&cache_bust=true" alt="Top Langs" height="180">
 </div>
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7;">
-        "Os limites só existem se você deixar que eles existam." <br>
-        <strong>— Son Goku</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
       
 
