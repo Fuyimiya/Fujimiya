@@ -36,7 +36,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
-  <img src="https://img.shields.io/badge/Kwai-%23FF5E00.svg?style=for-the-badge&logo=kwai&logoColor=white" alt="Kwai">
+  <img src="https://img.shields.io/badge/Kwai-%23FF5E00.svg?style=for-the-badge&logo=kwai&logoColor=white" alt="Kwaii">
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut">
 </div>
 
@@ -84,11 +84,20 @@
 🎴 Japão  
 🎮 Jogos  
 
----
+
+ ## 📬 Contato
+
+* ✉️ **Email:** [josuerodrigues238239@gmail.com](mailto:josuerodrigues238239@gmail.com)
+* 💬 **WhatsApp:** [14 98172-3355](https://wa.me/5514981723355)
+* 📍 **Localização:** Jaú - SP
 
 <!-- SEÇÃO DE ESTATÍSTICAS COM AS CORES DA IMAGEM -->
 ## 📊 Estatísticas
->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight" alt="Top Langs" height="180">
+</div>
 
 ---
 
@@ -104,14 +113,6 @@
   </table>
 </div>
 
-
- ## 📬 Contato
-
-* ✉️ **Email:** [josuerodrigues238239@gmail.com](mailto:josuerodrigues238239@gmail.com)
-* 💬 **WhatsApp:** [14 98172-3355](https://wa.me/5514981723355)
-* 📍 **Localização:** Jaú - SP
-
----
 
 <div align="center">
   <table>
