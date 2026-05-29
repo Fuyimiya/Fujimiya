@@ -40,8 +40,7 @@
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut">
 </div>
 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight&cache_bust=true" alt="Top Langs" height="180">
-</div>
+ >
 
 
 📺 Animes favoritos
