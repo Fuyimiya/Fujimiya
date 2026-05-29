@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" alt="Banner Anime" width="100%" style="border-radius: 8px;">
-</div>
+</div
 
 # Olá, eu sou Josué 👋
 
