@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" alt="Banner Anime" width="100%" style="border-radius: 8px;">
-</div>
+<a href="https://ibb.co/KxKZqNSn"><img src="https://i.ibb.co/LdNwtQHK/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="0"></a>
 
 # Olá, eu sou Josué 👋
 
