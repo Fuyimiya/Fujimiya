@@ -76,3 +76,5 @@
     </tr>
   </table>
 </div>
+
+</div>
