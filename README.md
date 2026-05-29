@@ -33,14 +33,7 @@
 
 
 
----
-
-## 📌 Projetos em destaque
-
-* 🎬 **[Site_MangaLicious](https://github.com/Fujimiya/Site_MangaLicious)** Site sobre animes e mangás com layout moderno
-* 🎟️ **[Ticket-Trade](https://github.com/Fujimiya/Ticket-Trade)** Sistema de compra e venda de ingressos
-* 🏢 **[site_empresa](https://github.com/Fujimiya/site_empresa)** Site institucional para empresas
-* 👥 **[Dupla-dinamica](https://github.com/Fujimiya/Dupla-dinamica)** Projeto acadêmico em dupla dinâmica
+mica](https://github.com/Fujimiya/Dupla-dinamica)** Projeto acadêmico em dupla dinâmica
 
 ---
 
