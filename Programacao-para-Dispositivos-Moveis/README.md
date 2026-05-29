@@ -41,6 +41,13 @@
 </div>
 
  >
+## 📌 Projetos Desenvolvidos
+
+* 🎮 **AppJogoDaVelha**
+* ⛽ **AppMeuCombustivel**
+* 🏨 **MauiAppHotel (Partes I, II, III e IV)**
+* 🛒 **MauiAppMinhasCompras (Partes I e II)**
+* ☀️ **MauiAppTempoAgora**
 
 
 📺 Animes favoritos
