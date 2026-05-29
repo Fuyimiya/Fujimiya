@@ -86,6 +86,29 @@
 
 ---
 
+<!-- SEÇÃO DE ESTATÍSTICAS COM AS CORES DA IMAGEM -->
+## 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight" alt="Top Langs" height="180">
+</div>
+
+---
+
+<!-- FRASE FINAL COM CAIXA ROXA E BORDA AZUL NEON -->
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7; background-color: #1a1b26; border: 2px solid #7aa2f7; padding: 15px; border-radius: 8px;">
+        "Os limites só existem se você deixar que eles existam." <br>
+        <strong>— Son Goku</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
  ## 📬 Contato
 
 * ✉️ **Email:** [josuerodrigues238239@gmail.com](mailto:josuerodrigues238239@gmail.com)
