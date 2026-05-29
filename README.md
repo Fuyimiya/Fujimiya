@@ -32,21 +32,14 @@
 
 ---
 
-## 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_bust=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight&cache_bust=true" alt="Top Langs" height="180">
-</div>
-
----
 
 ## 📌 Projetos em destaque
 
 * 🎬 **[Site_MangaLicious](https://github.com/Fujimiya/Site_MangaLicious)** Site sobre animes e mangás com layout moderno
 * 🎟️ **[Ticket-Trade](https://github.com/Fujimiya/Ticket-Trade)** Sistema de compra e venda de ingressos
 * 🏢 **[site_empresa](https://github.com/Fujimiya/site_empresa)** Site institucional para empresas
-* 👥 **[Dupla-dinamica](https://github.com/Fujimiya/Dupla-dinamica)** Projeto acadêmico em dupla dinâmica
+
 
 ---
 
@@ -61,7 +54,7 @@
 ## 📬 Contato
 
 * ✉️ **Email:** [josuerodrigues238239@gmail.com](mailto:josuerodrigues238239@gmail.com)
-* 💬 **WhatsApp:** [14 98173-5500](https://wa.me/5514981735500)
+* 💬 **WhatsApp:** [14 981723355](https://wa.me/5514981723355)
 * 📍 **Localização:** Jaú - SP
 
 ---
