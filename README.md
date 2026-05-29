@@ -1,7 +1,6 @@
-<a href="https://ibb.co/KxKZqNSn"><img src="https://i.ibb.co/LdNwtQHK/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="0"></a>
+<a href="https://ibb.co/KxKZqNSn"><img src="https://i.ibb.co/LdNwtQHK/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="100"></a>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fuyimiya/Fuyimiya/main/banner.png" alt="Banner Otonari no Tenshi-sama" width="100%">
-</p>
+ 
 
 # Olá, eu sou Josué 👋
 
