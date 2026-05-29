@@ -91,10 +91,6 @@
 * 💬 **WhatsApp:** [14 98172-3355](https://wa.me/5514981723355)
 * 📍 **Localização:** Jaú - SP
 
-<-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight" alt="Top Langs" height="180">
-</div>
-
-
 ## 📊 Estatísticas
 
 <div align="center">
@@ -105,7 +101,6 @@
 
 
 
-      
 
 
 
