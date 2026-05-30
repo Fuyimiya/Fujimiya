@@ -1,5 +1,6 @@
-://i.ibb.co/LdNwtQHK/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="100"></a>
-<p align="cen
+ahref="https://ibb.co/KxKZqNSn"><img src="https://i.ibb.co/LdNwtQHK/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="100"></a>
+<p align="center">
+ 
 
 
 # Olá, eu sou Josué 👋
