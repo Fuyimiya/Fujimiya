@@ -30,17 +30,6 @@
 
 
 
----
-
-## 📌 Projetos em destaque
-
-* 🌐 **[Site_MangaLicious](https://github.com/Fuyimiya/Site_MangaLicious)** - Site sobre animes e mangás com layout moderno
-* 🎫 **[Ticket-Trade](https://github.com/Fuyimiya/Ticket-Trade)** - Sistema de compra e venda de ingressos
-* 🏢 **[site_empresa](https://github.com/Fuyimiya/site_empresa)** - Site institucional para empresas
-* 👥 **[Dupla-dinamica](https://github.com/Fuyimiya/Dupla-dinamica)** - Projeto acadêmico em dupla dinâmica
-
----
-
 ## 📺 Animes favoritos
 * Naruto • Attack on Titan • Death Note • Steins;Gate • One Piece • Otonari no Tenshi-sama
 
