@@ -61,4 +61,4 @@ Josué (Fujimiya)
 
 💻 Programação para Dispositivos Móveis
 
-🎌 Criador de Conteúdo sobre Anime
+
