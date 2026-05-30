@@ -1,0 +1,7 @@
+-- AlterTable
+ALTER TABLE `ecopontos` ADD COLUMN `bairro` VARCHAR(191) NULL,
+    ADD COLUMN `cep` VARCHAR(191) NULL,
+    ADD COLUMN `cidade` VARCHAR(191) NULL,
+    ADD COLUMN `logradouro` VARCHAR(191) NULL,
+    ADD COLUMN `numero` VARCHAR(191) NULL,
+    ADD COLUMN `uf` VARCHAR(191) NULL;
