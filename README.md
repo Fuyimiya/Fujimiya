@@ -40,8 +40,8 @@
 
 ## 📬 Contato
 
-* 📧 **Email:** josue.paschoalino@fatec.sp.gov.br
-* <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="16px" /> **WhatsApp:** [Enviar mensagem (14) 98173-5514](https://wa.me/5514981735514)
+* 📧 **Email:** josuerodrigues238239@gmail.com
+* <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="16px" /> **WhatsApp:** [Enviar mensagem (14) 981723355](https://wa.me/5514981723355)
 * 📍 **Localização:** Jaú - SP
 
 ---
