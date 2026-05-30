@@ -46,14 +46,13 @@
 
 ---
 
-<<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    
-      <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7; background-color: #1a1b26; border: 2px solid #7aa2f7; padding: 15px; border-radius: 8px;">
+<td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7; background-color: #1a1b26; border: 2px solid #7aa2f7; padding: 15px; border-radius: 8px;">
         "Os limites só existem se você deixar que eles existam." <br>
         <strong>— Son Goku</strong>
       </td>
     </tr>
   </table>
+
+
 
 
