@@ -1,4 +1,4 @@
-# 🎮 MauiAppJogoDVelha
+# 🎮 MauiAppJogoDaVelha
 
 Aplicativo desenvolvido na disciplina de Programação para Dispositivos Móveis da Fatec Jaú utilizando .NET MAUI e MVVM.
 
