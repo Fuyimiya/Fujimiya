@@ -69,4 +69,4 @@ Josué (Fujimiya)
 🎌 Criador de Conteúdo sobre Anime
 
 🎓 Fatec Jaú
-🎌 Criador de Conteúdo sobre Anime
+
