@@ -1,6 +1,7 @@
 # 🏨 MauiAppHotel - Parte III
 
-Aplicativo desenvolvido na disciplina de Programação para Dispositivos Móveis da Fatec Jaú utilizando .NET MAUI.  
+Aplicativo desenvolvido na disciplina de Programação para Dispositivos Móveis da Fatec Jaú utilizando .NET MAUI. 
+
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
