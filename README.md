@@ -1,6 +1,4 @@
-LdNwtQHK/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="100"></a>
-<p align="center">
-">
+
  
 
 
