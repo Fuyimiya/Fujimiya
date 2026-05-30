@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Formulário</title>
+		<meta charset="UTF-8">
+		<style>
+		</style>
+	</head>
+	<body>
+		<h1>Contato</h1>
+		<br>
+		<form action="formulario.php" method="get">
+			<label for="nome">Nome:</label>
+			<input type="text" name="nome" id="nome" required>
+			<br><br>
+			<label for="CPF">CPF:</label>
+			<input type="text" name="CPF" id="CPF" required>
+			<br><br>
+			<label for="profissao">Profissão
+			</label>
+			<select name="profissao">
+				<option>Médico</option>
+				<option>Professor</option>
+				<option>Programador</option>
+				<option>Outra</option>
+			</select>
+			<br><br>
+			<label for="sexo">Sexo:</label>
+			<br>
+			<input type="radio" name="sexo" value="Masculino">
+			<label>Masculino</label>
+			<br>
+			<input type="radio" name="sexo" value="Feminino">
+			<label>Feminino</label>
+			<br><br>
+			<label for="lazer">Lazer</label>
+			<br>
+			<input type="checkbox" name="lazer1" value="Jogar">
+			<label>Jogar</label>
+			<br>
+			<input type="checkbox" name="lazer2" value="Animes">
+			<label>Assistir animes</label>
+			<br>
+			<input type="checkbox" name="lazer3" value="Exercícios">
+			<label>Viajar</label>
+			<br><br>
+			<label>Observação</label>
+			<br>
+			<textarea name="observacao"></textarea>
+			<br><br>
+			<input type="submit" value="Enviar">
+		</form>
+	</body>
+</html>
