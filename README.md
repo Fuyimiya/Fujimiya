@@ -1,13 +1,15 @@
-<<p align="center">
-  <img src="https://raw.githubusercontent.com/Fuyimiya/Fuyimiya/main/banner.png" alt="Banner Anime" width="100%">
-</p>
+a href="https://ibb.co/KxKZqNSn"><img src="https://i.ibb.co/LdNwtQHK/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="100"></a>
+<p align="cen
 
-# # Olá, eu sou o Josué 👋
 
-* 🎓 Estudante da Fatec Jaú
-* 👨‍💻 Desenvolvedor em formação
-* ☕ Java • Android • Banco de Dados
-* 🌸 Apaixonado por animes e mangás
+# Olá, eu sou Josué 👋
+
+* 🎓 **Estudante da Fatec Jaú**
+* 💻 **Desenvolvedor em formação**
+* ☕ **Java • Criação de Conteúdo de Anime • Banco de Dados**
+* 🔖 **Apaixonado por animes e mangás**
+
+ás
 
 ---
 
@@ -25,12 +27,7 @@
 
 ---
 
-## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fuyimiya&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuyimiya&layout=compact&theme=dark" alt="Top Langs" height="180px" />
-</p>
 
 ---
 
