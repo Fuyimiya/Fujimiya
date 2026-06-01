@@ -32,39 +32,31 @@
 </p>
 
  >
-## 📌 Projetos Desenvolvidos
+📱 Programação para Dispositivos Móveis
 
-* 🎮 **AppJogoDaVelha**
-* ⛽ **AppMeuCombustivel**
-* 🏨 **MauiAppHotel (Partes I, II, III e IV)**
-* 🛒 **MauiAppMinhasCompras (Partes I e II)**
-* ☀️ **MauiAppTempoAgora**
+Projetos desenvolvidos na disciplina de Programação para Dispositivos Móveis da Fatec Jaú.
 
+## 📂 Projetos
 
-📺 Animes favoritos
-
-- Steins;Gate
-- Kanojo mo Kanojo 
-- Death Note
-- Tokyo Ghoul
-- Re:Zero
-- Violet Evergarden
-- Your Name
-- Otonari no Tenshi-sama
-- Sword Art Online
-- Classroom of the Elite
-
-
+* 🎮 AppJogoDaVelha
+* ⛽ AppMeuCombustivel
+* 🌦️ AppTempoAgora
+* 💪 MauiAppFit - Parte I
+* 💪 MauiAppFit - Parte II
+* 🏨 MauiAppHotel - Parte I
+* 🏨 MauiAppHotel - Parte II
+* 🏨 MauiAppHotel - Parte III
+* 🏨 MauiAppHotel - Parte IV
+* 🛒 MauiAppMinhasCompras - Parte I
+* 🛒 MauiAppMinhasCompras - Parte II
 
 ---
- 📖 Mangás favoritos
 
-- Oshi no Ko 
-- Vagabond
-- Tokyo Ghoul
-- Chainsaw Man
-- Solo Leveling
----
+## 👨‍💻 Desenvolvedor
+
+Josué (Fujimiya)
+
+🎓 Fatec Jaú
 
 🌌 Personagens favoritos
 
