@@ -67,4 +67,3 @@ Josué (Fujimiya)
 
 🌱 Projeto Vasos Inteligentes
 
-🎌 Criador de Conteúdo sobre Anime
