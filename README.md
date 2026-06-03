@@ -126,12 +126,7 @@ Após os acontecimentos da primeira história, Stella precisa lidar com a ausên
 
 ---
 
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight)
-
-"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight)
-
+📊 
 ---
 
 🎯 Objetivo
