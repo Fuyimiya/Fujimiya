@@ -14,19 +14,9 @@
 
 ---
 
-## 🛠️ Tecnologias
+🎌 Criador de Conteúdo Anime
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
----
+<p align="left">  <img src="https://img.shields.io/badge/YouTube-Tomoshi%20Animes76-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />  <img src="https://img.shields.io/badge/Kwai-Criador%20de%20Conte%C3%BAdo-FF6B00?style=for-the-badge&logo=kwai&logoColor=white" alt="Kwai" />  <img src="https://img.shields.io/badge/TikTok-Anime%20Content-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />  <img src="https://img.shields.io/badge/Anime-News%20e%20Curiosidades-E91E63?style=for-the-badge" alt="Anime" />  <img src="https://img.shields.io/badge/Mang%C3%A1s-Reviews%20e%20Indica%C3%A7%C3%B5es-8E44AD?style=for-the-badge" alt="Mangás" /></p>
 
 
 
