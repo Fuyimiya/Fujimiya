@@ -148,3 +148,21 @@ Josué (Fujimiya)
 💻 Desenvolvimento Web • Mobile • Banco de Dados
 
 📚 Amante da Cultura Japonesa, Animes e Mangás
+
+## 📬 Contato
+
+* ✉️ **Email:** [josuerodrigues238239@gmail.com](mailto:josuerodrigues238239@gmail.com)
+* 💬 **WhatsApp:** [14 981723355](https://wa.me/5514981723355)
+* 📍 **Localização:** Jaú - SP
+
+---
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7; background-color: #1a1b26; border: 2px solid #7aa2f7; padding: 15px; border-radius: 8px;">
+        "Os limites só existem se você deixar que eles existam." <br>
+        <strong>— Son Goku</strong>
+      </td>
+    </tr>
+  </table>
