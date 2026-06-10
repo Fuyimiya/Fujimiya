@@ -1,22 +1,129 @@
-<a href="https://ibb.co/KxKZqNSn"><img src="https://i.ibb.co/LdNwtQHK/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="0"></a>
- 
-
-
-
-
-🌸 👋 Olá, eu sou Josué (Fujimiya)
-
-<p align="center">
-  <img src="https://i.ibb.co/tMVs7cgP/Otonari-no-Tenshi-sama.png" width="800">
-</p>---
-
-🌸 Sobre Mim
+<<a href="https://ibb.co/KxKZqNSn">
+  <img src="https://i.ibb.co/LdNwtQHK/Otonari-no-Tenshi-sama.png" alt="Otonari-no-Tenshi-sama" border="0">
+</a><div align="center">👋 Olá, eu sou Josué
 
 🎓 Estudante da Fatec Jaú
 
 💻 Desenvolvedor em formação
 
-🎌 Apaixonado por Cultura Japonesa, Animes e Mangás
+☕ Java • Android • Banco de Dados • Desenvolvimento Mobile
+
+🎌 Criador de Conteúdo de Anime (Tomoshi Animes 76)
+
+📖 Apaixonado por animes e mangás
+
+</div>---
+
+🚀 Sobre Mim
+
+Sou estudante da Fatec Jaú, focado em desenvolvimento de software, aplicações mobile e banco de dados.
+
+Atualmente desenvolvo projetos acadêmicos utilizando Java, Android e .NET MAUI, além de produzir conteúdo sobre animes para redes sociais.
+
+---
+
+🛠️ Tecnologias
+
+💻 Desenvolvimento
+
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>🎬 Criação de Conteúdo
+
+<p align="left">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+<img src="https://img.shields.io/badge/Kwai-FF5E00?style=for-the-badge">
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
+</p>---
+
+📊 Estatísticas GitHub
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fujimiya&show_icons=true&theme=tokyonight"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujimiya&layout=compact&theme=tokyonight"/>
+</p>---
+
+🎓 Projetos em Destaque
+
+💪 AppFit Parte II
+
+Aplicativo desenvolvido em .NET MAUI para acompanhamento de atividades físicas.
+
+Tecnologias: C#, XAML, .NET MAUI
+
+Funcionalidades:
+
+- Cadastro de atividades
+- Navegação entre telas
+- Atualização de dados
+- Interface multiplataforma
+
+---
+
+🌦️ Clima
+
+Aplicativo mobile para consulta de previsão do tempo utilizando APIs externas e interface intuitiva.
+
+---
+
+🌱 Vasos Inteligentes
+
+Projeto IoT para monitoramento de plantas com sensores e acompanhamento de dados.
+
+---
+
+📚 Projetos Acadêmicos Fatec
+
+Projetos desenvolvidos durante as disciplinas do curso de Desenvolvimento de Software Multiplataforma.
+
+---
+
+📺 Animes Favoritos
+
+- Naruto
+- Attack on Titan
+- Death Note
+- Steins;Gate
+- One Piece
+
+---
+
+📖 Mangás Favoritos
+
+- Berserk
+- Vagabond
+- Tokyo Ghoul
+- One Punch Man
+
+---
+
+📬 Contato
+
+📧 Email: josuerodrigues238239@gmail.com
+
+📍 Localização: Jaú - SP
+
+🎓 Fatec Jaú
+
+---
+
+<div align="center">💭 Frase Favorita
+
+«"Os limites só existem se você deixar que eles existam."»
+
+— Son Goku
+
+</div>---
+
+<div align="center">⭐ Obrigado por visitar meu perfil!
+
+</div>
 
 📚 Criador de Conteúdo sobre Anime
 
