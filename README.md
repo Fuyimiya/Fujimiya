@@ -263,11 +263,59 @@ Josué (Fujimiya)
 ---
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="font-style: italic; font-size: 1.2em; color: #a371f7; background-color: #1a1b26; border: 2px solid #7aa2f7; padding: 15px; border-radius: 8px;">
-        "Os limites só existem se você deixar que eles existam." <br>
-        <strong>— Son Goku</strong>
-      </td>
-    </tr>
-  </table>
+  # 🚀 Nome do Projeto
+
+> Uma frase concisa explicando o objetivo principal da aplicação e qual problema ela resolve.
+
+![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue)
+
+---
+
+## 📌 Sobre o Projeto
+
+Uma descrição mais detalhada da aplicação, contextualizando como ela funciona, suas motivações e os principais recursos oferecidos aos usuários.
+
+### ✨ Funcionalidades Principais
+
+- [x] **Funcionalidade 1:** Descrição rápida da funcionalidade.
+- [x] **Funcionalidade 2:** Autenticação, controle de acessos ou manipulação de dados.
+- [x] **Funcionalidade 3:** Integração com APIs externas ou serviços em nuvem.
+- [ ] **Em breve:** Funcionalidade planejada para a próxima versão.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Front-end:** HTML5, CSS3, JavaScript
+- **Back-end:** Node.js, Express
+- **Banco de Dados:** SQL / PostgreSQL
+- **Nuvem & Deploy:** Microsoft Azure, Vercel
+- **Versionamento:** Git & GitHub
+
+---
+
+## 💻 Como Rodar o Projeto
+
+### Pré-requisitos
+Antes de começar, certifique-se de ter instalado em sua máquina:
+* [Git](https://git-scm.com)
+* [Node.js](https://nodejs.org/) (versão LTS recomendada)
+
+### Passo a Passo
+
+```bash
+# 1. Clone este repositório
+$ git clone [https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/seu-usuario/nome-do-projeto.git)
+
+# 2. Acesse a pasta do projeto
+$ cd nome-do-projeto
+
+# 3. Instale as dependências
+$ npm install
+
+# 4. Configure as variáveis de ambiente (.env)
+$ cp .env.example .env
+
+# 5. Execute a aplicação em modo de desenvolvimento
+$ npm run dev
